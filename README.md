@@ -4,11 +4,11 @@
 <!-- **vansh911/vansh911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h2> Hey there! I'm Vansh. <img src="icon/IMG_20220102_180916.jpg" align="center"  width="35"></h2>
+<h2> Hey there! I'm <a href="https://mrnaveenwoodoworks.w3spaces.com/" target="_blank" rel="noopener noreferrer"> Vansh. </a><img src="icon/IMG_20220102_180916.jpg" align="center"  width="35"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="00"/>
 
-<a href="https://mrnaveenwoodoworks.w3spaces.com/" target="_blank" rel="noopener noreferrer"> 👨🏻‍💻 About Me  </a>
 
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning JavaScript.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
