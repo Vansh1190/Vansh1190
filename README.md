@@ -4,10 +4,11 @@
 <!-- **vansh911/vansh911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h2> Hey there! I'm Vansh. <img src="logoimg/IMG_20220102_180916.jpg" align="center"  width="35"></h2>
+<h2> Hey there! I'm Vansh. <img src="icon/IMG_20220102_180916.jpg" align="center"  width="35"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="00"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<a href="https://mrnaveenwoodoworks.w3spaces.com/" target="_blank" rel="noopener noreferrer"> 👨🏻‍💻 About Me  </a>
+
 
 - 🔭 &nbsp; I’m currently learning JavaScript.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -36,4 +37,3 @@
 &nbsp; <a href="https://www.linkedin.com/in/vansh1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:vanshk605@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-<iframe width="100%" height="150%" src="https://mrnaveenwoodoworks.w3spaces.com/"></iframe>
