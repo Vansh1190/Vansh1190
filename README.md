@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning ReactJS.
+- 🔭 &nbsp; I’m currently focusing on DSA.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
 - 🌱 &nbsp; Enthusiast in Blockchain and Artificial Intelligence .
