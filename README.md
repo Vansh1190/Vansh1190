@@ -20,8 +20,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | C
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-- 🛢 &nbsp; MySQL | Firebase
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |⚛️ReactJS | MERN | Ionic | NodeJS |
+- 🛢 &nbsp; MySQL | Firebase | MONGODB  
 - 🔧 &nbsp; PyCharm | Visual Studio code
 
 <br>
